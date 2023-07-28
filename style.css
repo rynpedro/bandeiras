@@ -1,0 +1,54 @@
+body {
+    background-color: gray;
+    margin: 0;
+}
+
+.flag {
+
+    width: 600px;
+    margin: 40px;
+    background-color: white;
+}
+
+#one,
+#two {
+    height: 150px;
+    background-color: white;
+
+
+}
+
+#two {
+
+    background-color: red;
+}
+
+#three {
+
+    background-color: red;
+    height: 150px;
+
+}
+
+#one2 {
+
+    background-color: white;
+    height: 150px;
+
+}
+
+#two2 {
+    background-color: red;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    margin-left: 200px;
+
+}
+
+#three1 {
+    height: 150px;
+    background-color: white;
+
+
+}
